@@ -24,7 +24,7 @@ impl Deck {
         }
         // let deck = Deck { cards };
         // return deck;
-        /* type of return */
+
         // return Deck { cards };
 
         Deck { cards }
